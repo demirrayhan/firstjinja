@@ -1,0 +1,65 @@
+ 
+  .container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  #header {
+    background-color: #35424A;
+    border-bottom: 5px solid #9F4F85;
+  }
+  #header a {
+    color: white;
+    text-decoration: none;
+  }
+  #header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  #header li {
+    display: inline;
+    padding: 0 20px;
+  }
+  #main {
+    min-height: 400px;
+    background: url("images/showcase.jpg") no-repeat 0 -400px;
+    text-align: center;
+    color: white;
+  }
+  #main h1 {
+    font-size: 55px;
+    margin: 100px 0 10px;
+  }
+  #main p {
+    font-size: 20px;
+  }
+  #boxes .container {
+    display: flex;
+    justify-content: space-between;
+  }
+  #boxes .box {
+      text-align: center;
+      width: 30%;
+      padding: 10px;
+  }
+  #boxes .box img {
+      width: 90px;
+  }
+  #branding {
+    color: white);
+  }
+  #spanColor {
+    color: #9F4F85;
+  }
+  
+  #footer {
+      margin: 20px 0;
+      text-align: center;
+      background-color: cornsilk;
+      border-top: 2px solid #9F4F85;
+      border-bottom: 2px solid #9F4F85;

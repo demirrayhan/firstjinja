@@ -1,0 +1,19 @@
+{
+  "instractor": {
+    "name": "ayhan",
+    "lastname": "demir",
+    "from": "ankara"
+  },
+  "student": [
+    {
+      "Name": "Nurul",
+      "age": 32
+    },
+    {
+      "Name": "ismail",
+      "age": 22
+    },
+    "celik",
+    "ali"
+  ]
+}
